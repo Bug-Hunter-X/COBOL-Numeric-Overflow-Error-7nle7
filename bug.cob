@@ -1,0 +1,6 @@
+01  WS-DATA PIC 9(5) VALUE 12345.
+
+* Some COBOL statements...
+
+ADD 1 TO WS-DATA.
+DISPLAY WS-DATA.
